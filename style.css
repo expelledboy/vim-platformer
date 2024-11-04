@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background-color: #1e1e1e; /* Dark background to resemble a code editor */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+canvas {
+    border: 1px solid #ccc;
+    background-color: #000000; /* Black canvas for ASCII art */
+} 
