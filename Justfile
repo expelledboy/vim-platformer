@@ -9,3 +9,6 @@ test:
 
 run:
 	simple-http-server -p 8000 -i -o
+
+play:
+	open https://expelledboy.github.io/vim-platformer
